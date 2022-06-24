@@ -1,0 +1,27 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    color: white;
+    display: grid;
+    place-items: center;   
+}
+
+.container {
+    width: fit-content;
+    height: fit-content;
+}
+
+
+p {
+    text-align: center;
+}
+
+button {
+    padding: 1em;
+}
+
+.subcon2 {
+    display: flex;
+    justify-content: space-around;
+}
